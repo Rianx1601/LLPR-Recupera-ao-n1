@@ -1,7 +1,5 @@
 # LLPR-Recupera-o-N1
 
-Aluno: Guilherme Bandeira Dias
+Aluno:Rian de Mendonça
 
 professor: José Olinda da Silva
-
-Repositório referente a Recuperação da N1, da matéria lógica e linguagem de programação.
